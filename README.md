@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:FFD60A,100:FF6B35&height=200&section=header&text=RUDRA%20PRATAP%20SINGH&fontSize=48&fontColor=FFD60A&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20GenAI&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,33:00D9FF,66:FF2E63,100:FFD60A&height=200&section=header&text=RUDRA%20PRATAP%20SINGH&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20GenAI&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD60A&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Full-Stack+Developer+(MERN+%2B+GenAI);%24+status;%3E+Final+Year+CSE+Student+%7C+Open+to+Internships;%24+currently_learning;%3E+DSA+%2B+GenAI+API+Integrations" alt="Typing SVG" />
-
-<br/>
-
-![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE-FFD60A?style=flat-square&labelColor=0D1117)
-![University](https://img.shields.io/badge/University-BBD%20University%2C%20Lucknow-FFD60A?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Lucknow%2C%20India-FFD60A?style=flat-square&labelColor=0D1117)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Full-Stack+Developer+(MERN+%2B+GenAI);%24+status;%3E+Final+Year+CSE+Student+%7C+Open+to+Internships;%24+currently_learning;%3E+DSA+%2B+GenAI+API+Integrations" alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-rudrapratap112005%40gmail.com-FFD60A?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:rudrapratap112005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rudrapratap029-FFD60A?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/rudrapratap029)
-[![LeetCode](https://img.shields.io/badge/LeetCode-rudrapratap__07-FFD60A?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/rudrapratap__07/)
+![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE-00D9FF?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/University-BBD%20University%2C%20Lucknow-00D9FF?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Lucknow%2C%20India-00D9FF?style=flat-square&labelColor=0D1117)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rudrapratap029&color=FFD60A&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rudrapratap029?color=FFD60A&style=flat-square&label=FOLLOWERS&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/rudrapratap029?color=FFD60A&style=flat-square&label=STARS&labelColor=0D1117)
+[![Email](https://img.shields.io/badge/Email-rudrapratap112005%40gmail.com-FF2E63?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:rudrapratap112005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rudrapratap029-FF2E63?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/rudrapratap029)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rudrapratap__07-FF2E63?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/rudrapratap__07/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rudrapratap029&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/rudrapratap029?color=00D9FF&style=flat-square&label=FOLLOWERS&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/rudrapratap029?color=00D9FF&style=flat-square&label=STARS&labelColor=0D1117)
 
 </div>
 
@@ -55,10 +55,10 @@ OPEN_TO   : Internships | Full-Stack Developer Roles
 
 <div align="center">
 
-![MERN](https://img.shields.io/badge/MERN%20Stack-Developer-FFD60A?style=flat-square&labelColor=0D1117)
-![GenAI](https://img.shields.io/badge/GenAI-Integration-FF6B35?style=flat-square&labelColor=0D1117)
-![DataScience](https://img.shields.io/badge/Data%20Science-NumPy%20%7C%20Seaborn%20%7C%20Matplotlib-FFD60A?style=flat-square&labelColor=0D1117)
-![DSA](https://img.shields.io/badge/DSA-Actively%20Learning-FF6B35?style=flat-square&labelColor=0D1117)
+![MERN](https://img.shields.io/badge/MERN%20Stack-Developer-00D9FF?style=flat-square&labelColor=0D1117)
+![GenAI](https://img.shields.io/badge/GenAI-Integration-FF2E63?style=flat-square&labelColor=0D1117)
+![DataScience](https://img.shields.io/badge/Data%20Science-NumPy%20%7C%20Seaborn%20%7C%20Matplotlib-00D9FF?style=flat-square&labelColor=0D1117)
+![DSA](https://img.shields.io/badge/DSA-Actively%20Learning-FF2E63?style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -107,7 +107,7 @@ No professional work experience yet — currently focused on building and prepar
 - Exploring GenAI API integration within full-stack workflows
 - Actively searching for a Full-Stack Developer internship
 
-`Tags:` ![MERN](https://img.shields.io/badge/-MERN-FFD60A?style=flat-square&labelColor=0D1117) ![GenAI](https://img.shields.io/badge/-GenAI-FFD60A?style=flat-square&labelColor=0D1117) ![DSA](https://img.shields.io/badge/-DSA-FFD60A?style=flat-square&labelColor=0D1117)
+`Tags:` ![MERN](https://img.shields.io/badge/-MERN-FF2E63?style=flat-square&labelColor=0D1117) ![GenAI](https://img.shields.io/badge/-GenAI-FF2E63?style=flat-square&labelColor=0D1117) ![DSA](https://img.shields.io/badge/-DSA-FF2E63?style=flat-square&labelColor=0D1117)
 
 <br/>
 
@@ -141,7 +141,7 @@ No professional work experience yet — currently focused on building and prepar
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-rudrapratap__07-FFD60A?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/rudrapratap__07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rudrapratap__07-FF2E63?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/rudrapratap__07/)
 
 </div>
 
@@ -151,10 +151,10 @@ No professional work experience yet — currently focused on building and prepar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rudrapratap029&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD60A&icon_color=FFD60A&text_color=FF6B35&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapratap029&hide_border=true&background=0D1117&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=FF6B35&currStreakNum=FF6B35&sideNums=FF6B35&dates=FF6B35" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rudrapratap029&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF2E63&text_color=FFD60A&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrapratap029&hide_border=true&background=0D1117&ring=00D9FF&fire=FF2E63&currStreakLabel=00D9FF&sideLabels=FFD60A&currStreakNum=FFD60A&sideNums=FFD60A&dates=FFD60A" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapratap029&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD60A&text_color=FF6B35" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrapratap029&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFD60A" width="49%"/>
 
 </div>
 
@@ -164,7 +164,7 @@ No professional work experience yet — currently focused on building and prepar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rudrapratap029&theme=gruvbox&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=rudrapratap029&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -174,7 +174,7 @@ No professional work experience yet — currently focused on building and prepar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrapratap029&bg_color=0D1117&color=FFD60A&line=FFD60A&point=FF6B35&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrapratap029&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF2E63&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -224,14 +224,14 @@ current_focus:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rudrapratap112005%40gmail.com-FFD60A?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:rudrapratap112005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rudrapratap029-FFD60A?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/rudrapratap029)
-[![LeetCode](https://img.shields.io/badge/LeetCode-rudrapratap__07-FFD60A?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/rudrapratap__07/)
+[![Email](https://img.shields.io/badge/Email-rudrapratap112005%40gmail.com-FF2E63?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:rudrapratap112005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rudrapratap029-FF2E63?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/rudrapratap029)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rudrapratap__07-FF2E63?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/rudrapratap__07/)
 
 <br/><br/>
 
 <i>"$ echo 'still compiling — but shipping every day.'"</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FFD60A,100:FF6B35&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,33:00D9FF,66:FF2E63,100:FFD60A&height=120&section=footer" width="100%"/>
 
 </div>
