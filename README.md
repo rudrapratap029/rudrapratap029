@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,33:00D9FF,66:FF2E63,100:FFD60A&height=200&section=header&text=RUDRA%20PRATAP%20SINGH&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20GenAI&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Full-Stack+Developer+(MERN+%2B+GenAI);%24+status;%3E+Final+Year+CSE+Student+%7C+Open+to+Internships;%24+currently_learning;%3E+DSA+%2B+GenAI+API+Integrations" alt="Typing SVG" />
